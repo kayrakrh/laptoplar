@@ -30,9 +30,18 @@ Bu model güncel olarak kullandığım modeldir. Varsayılan olarak Intel Core i
 
 Bazı Linux dağıtımlarında ses kartı düzgün çalışmayabiliyor.
 
-Linux deneyimi değerlendirmem:
-KDE Plasma için 10 üzerinden 8
-GNOME için 10 üzerinden 7.5
-Diğer masaüstü ortamları için 10 üzerinden 7
+Linux deneyimi değerlendirmem
+| Masaüstü | Puan (10 üzerinden) |
+| - | - |
+| KDE Plasma 6.0+ | 8 |
+| GNOME | 7.5 |
+| Diğer Masaüstü Ortamları | 7 |
+
+Önerdiğim Dağıtımlar:
+- CachyOS
+- Fedora KDE Plasma Spin
+- Arch Linux + KDE Plasma
+- EndeavourOS
+- Manjaro
 
 En iyi deneyim için CachyOS ve 6.18+ kernel önermekteyim
