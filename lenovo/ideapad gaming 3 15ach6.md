@@ -36,3 +36,6 @@ Bu model vakti zamanında elime geçmişti ve epey eski Linux dağıtımlarında
 
 Öneriler:
 Linux kernel sürümü en az 5.10+ olmalıdır
+
+Önerdiğim Dağıtımlar:
+Herhangi bir dağıtım bu cihazda oldukça iyi çalışıyor. Hatta, bu Laptop BSD için bile gayet iyi. MUSL kullanmayan her dağıtım (alpine, chimera linux gibi dağıtımlar dışında neredeyse hiç bir dağıtım musl kullanmıyor) bu cihaz için son derece iyi olacaktır.
