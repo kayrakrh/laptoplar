@@ -17,7 +17,7 @@
 | Wi-Fi | Evet |
 | Ethernet | Evet |
 
-*** Öneriler ***
+**Öneriler**
 | Bileşen | Önerilen Sürüm |
 |---|---|
 | Kernel | 5.10+ |
