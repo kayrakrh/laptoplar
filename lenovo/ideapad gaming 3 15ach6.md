@@ -1,5 +1,26 @@
 # Lenovo IDEAPAD Gaming 3 15ach6
 
+<table align="right">
+<tr>
+<td>
+
+| Donanım | Çalışıyor mu? |
+|---|---|
+| Touchpad | Evet |
+| Keyboard | Evet |
+| GPU (AMD) | Evet |
+| GPU (Intel) | Test edilmedi |
+| GPU (NVIDIA) | Evet, Nvidia Open önerilir |
+| Webcam | Evet |
+| Bluetooth | Evet | 
+| Audio | Evet |
+| Wi-Fi | Evet |
+| Ethernet | Evet |
+
+</td>
+</tr>
+</table>
+
 Bu model vakti zamanında elime geçmişti ve epey eski Linux dağıtımlarında bile iyi performans çıkarabiliyor. Kullandığı bütün donanım parçaları Linux ile epey uyumlu.
 
 | Linux Deneyimi | Değerlendirmem |
