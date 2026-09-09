@@ -17,6 +17,12 @@
 | Wi-Fi | Evet |
 | Ethernet | Evet |
 
+*** Öneriler ***
+| Bileşen | Önerilen Sürüm |
+|---|---|
+| Kernel | 5.10+ |
+| Nvidia | Nvidia Open 590+ |
+
 </td>
 </tr>
 </table>
