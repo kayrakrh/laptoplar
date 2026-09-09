@@ -16,6 +16,12 @@
 | Wi-Fi | Evet |
 | Ethernet | Evet |
 
+**Öneriler**
+| Bileşen | Önerilen Sürüm |
+|---|---|
+| Kernel | 6.18+ |
+| Nvidia | Nvidia Open 610+ |
+
 </td>
 </tr>
 </table>
