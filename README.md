@@ -1,5 +1,7 @@
 # laptoplar
-Tarafımca yazılmış alınabilir laptoplar listesi
+Tarafımca yazılmış alınabilir bulduğum laptoplar listesidir
+
+Türkiye'deki laptopların Linux uyumu adına bir wiki sitesi içindir
 
 Linux ve BSD testleri yaptığım donanımlar/laptopların inceleme listesi
 
